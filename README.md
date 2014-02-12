@@ -2,7 +2,7 @@ Hello
 
 =====
 
-My I'm going to be a web developer
+My I'm going to be a web master
 learning
 git
 
